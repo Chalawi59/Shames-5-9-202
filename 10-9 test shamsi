@@ -5,8 +5,6 @@ http://shamsi.xyz:25461/demo/demo/42
 http://shamsi.xyz:25461/demo/demo/2
 #EXTINF:-1,tvg-name="AFLAM EGYPT"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Movies",SHAMSI AFLAM
 http://shamsi.xyz:25461/demo/demo/5
-#EXTINF:-1,tvg-name="ALARABYA SECRET"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="ُNews",SHAMSI SECRET
-http://shamsi.xyz:25461/demo/demo/631
 #EXTINF:-1,tvg-name="Rotana Cinema " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Cinema_EG_New.png/271px-Rotana_Cinema_EG_New.png" group-title="ROTANA",Rotana Cinema                
 http://shamsi.xyz:25461/demo/demo/209
 #EXTINF:-1,tvg-name="Rotana Classic " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="ROTANA",Rotana Classic
@@ -47,6 +45,8 @@ http://shamsi.xyz:25461/demo/demo/285
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,tvg-name="Al Hadath"tvg-logo="https://i.imgur.com/1nSgfU0.png" group-title="News",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8
+#EXTINF:-1,tvg-name="ALARABYA Documenation"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="News",Al Arabiya Documenation
+http://shamsi.xyz:25461/demo/demo/631
 #EXTINF:-1,tvg-name="Al Hurra Iraq"tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News",Al Hurra Iraq
 http://shamsi.xyz:25461/demo/demo/70
 #EXTINF:-1,tvg-name="Al Sharqiya News"tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
