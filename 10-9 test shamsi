@@ -1,0 +1,387 @@
+#EXTM3U
+#EXTINF:-1,tvg-name="SHAMSI FEROUZ"tvg-logo="https://tunisnow.tn/wp-content/uploads/2020/05/%D9%81%D9%8A%D8%B1%D9%88%D8%B2.png"group-title="Music",SHAMSI FEROUZ
+http://shamsi.xyz:25461/demo/demo/42
+#EXTINF:-1,tvg-name="SHAMSI MOVIES"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI MOVIES
+http://shamsi.xyz:25461/demo/demo/2
+#EXTINF:-1,tvg-name="AFLAM EGYPT"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI AFLAM
+http://shamsi.xyz:25461/demo/demo/5
+#EXTINF:-1,tvg-name="ALARABYA SECRET"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="ُNEWS",SHAMSI SECRET
+http://shamsi.xyz:25461/demo/demo/631
+#EXTINF:-1,tvg-name="Rotana Cinema " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Cinema_EG_New.png/271px-Rotana_Cinema_EG_New.png" group-title="ROTANA",Rotana Cinema                
+http://shamsi.xyz:25461/demo/demo/209
+#EXTINF:-1,tvg-name="Rotana Classic " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="ROTANA",Rotana Classic
+http://shamsi.xyz:25461/demo/demo/196
+#EXTINF:-1,tvg-name="Rotana Coymedy " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="ROTANA",Rotana Coymedy
+http://shamsi.xyz:25461/demo/demo/197
+#EXTINF:-1,tvg-name="Rotana Drama " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="ROTANA",Rotana Drama
+http://shamsi.xyz:25461/demo/demo/198
+#EXTINF:-1,tvg-name="Rotana Khalijia " tvg-logo="https://pbs.twimg.com/profile_images/1270355645393403904/4Th8gach_400x400.png" group-title="ROTANA",Rotana Khalijia
+http://shamsi.xyz:25461/demo/demo/199
+#EXTINF:-1,tvg-name="Rotana MUSIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rotana_Music_New_Logo.png/260px-Rotana_Music_New_Logo.png" group-title="ROTANA",Rotana MUSIC
+http://shamsi.xyz:25461/demo/demo/644
+#EXTINF:-1,tvg-name="Rotana CLIP " tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/clips.png" group-title="ROTANA",Rotana CLIP
+http://shamsi.xyz:25461/demo/demo/645
+#EXTINF:-1,tvg-name="ISLAMIC Quran HD " tvg-logo="https://img1.pnghut.com/11/10/25/HPN8iurd4B/brand-religious-text-hadith-logo-tafsir.jpg" group-title="Quran",ISLAMIC Quran HD
+http://shamsi.xyz:25461/demo/demo/242
+#EXTINF:-1,tvg-name="ART TARAB" tvg-logo="https://sc.dish.com/shared/images/station-logos/TARAB.png" group-title="ART",ART TARAB
+http://shamsi.xyz:25461/demo/demo/273
+#EXTINF:-1,tvg-name="HEKAYAT " tvg-logo="https://www.albousla.ps/wp-content/uploads/2020/04/ART-Hekayat-1.png" group-title="ART",HEKAYAT
+http://shamsi.xyz:25461/demo/demo/274
+#EXTINF:-1,tvg-name="HEKAYAT 2" tvg-logo="https://i.pinimg.com/originals/ad/f7/ec/adf7ec70167639733e0fd45f587370be.png" group-title="ART",HEKAYAT 2
+http://shamsi.xyz:25461/demo/demo/275
+#EXTINF:-1,tvg-name="ART CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcy-huXcJuVoMcluY69sgRroT5HtZBc1cfWMJ7wE80cw&usqp=CAU&ec=45695923" group-title="ART",ART CINEMA
+http://shamsi.xyz:25461/demo/demo/276
+#EXTINF:-1,tvg-name="ART AFLAM 1" tvg-logo="https://www.dreamboxgate.com/imgcache/2014/491648_dreambox-sat.com.jpg" group-title="ART",ART AFLAM 1 
+http://shamsi.xyz:25461/demo/demo/277
+#EXTINF:-1,tvg-name="ART AFLAM 2" tvg-logo="https://i.pinimg.com/originals/5b/63/7b/5b637bd332f06772eeebb443bfd7d096.jpg" group-title="ART",ART AFLAM 2
+http://shamsi.xyz:25461/demo/demo/278
+#EXTINF:-1,tvg-name="ART MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/c/c4/Art_%D8%A7%D9%84%D8%A3%D9%81%D9%84%D8%A7%D9%85.jpg" group-title="ART",ART MOVIES
+http://shamsi.xyz:25461/demo/demo/279
+#EXTINF:-1,tvg-name="ART AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ART_America.jpg" group-title="ART",ART AMERICA
+http://shamsi.xyz:25461/demo/demo/280
+#EXTINF:-1,tvg-name="ART VARIETY" tvg-logo="https://i.pinimg.com/originals/ef/92/c3/ef92c310c6ad1f8a5156a1c4cfcb95a4.jpg" group-title="ART",ART VARIETY
+http://shamsi.xyz:25461/demo/demo/281
+#EXTINF:-1,tvg-name="National Geographic"tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="General",National Geographic Abu Dhabi
+http://shamsi.xyz:25461/demo/demo/285
+#EXTINF:-1,tvg-name="Al Hurra Iraq"tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="News",Al Hurra Iraq
+http://shamsi.xyz:25461/demo/demo/70
+#EXTINF:-1,tvg-name="Al Sharqiya News"tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
+http://shamsi.xyz:25461/demo/demo/71
+#EXTINF:-1,tvg-name="Al Sharqiya "tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="News",Al Sharqiya
+http://shamsi.xyz:25461/demo/demo/400
+#EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/310YEHDYguL.png" group-title="Nwes",Al Jazeera
+http://shamsi.xyz:25461/demo/demo/322
+#EXTINF:-1,tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.ytimg.com/vi/9PWYaRaGy0c/maxresdefault.jpg" group-title="Nwes",Al Jazeera Mubasher
+http://shamsi.xyz:25461/demo/demo/324
+#EXTINF:-1,tvg-name="ALRASHID"tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png"group-title="Nwes",Al Rasheed
+http://shamsi.xyz:25461/demo/demo/393
+#EXTINF:-1,tvg-name="Dijlah"tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="News",Dijlah
+http://shamsi.xyz:25461/demo/demo/396
+#EXTINF:-1,tvg-name="Dijlah Tarab"tvg-logo="https://i.ytimg.com/vi/OxVMoatE2JY/hqdefault.jpg" group-title="Music",Dijlah Tarab
+http://shamsi.xyz:25461/demo/demo/397
+#EXTINF:-1,tvg-name="Al Iraqiya TV "tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya
+http://shamsi.xyz:25461/demo/demo/398
+#EXTINF:-1وtvg-name="Alsumaria"tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="Nwes",Al Sumaria
+http://shamsi.xyz:25461/demo/demo/401
+#EXTINF:-1,tvg-name="Al Taghayer" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" group-title="Nwes",Al Taghayer
+http://shamsi.xyz:25461/demo/demo/402
+#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
+http://shamsi.xyz:25461/demo/demo/90
+#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One HD
+http://shamsi.xyz:25461/demo/demo/95
+#EXTINF:-1,tvg-name="MBC 1"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
+http://shamsi.xyz:25461/demo/demo/110
+#EXTINF:-1,tvg-name="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
+http://shamsi.xyz:25461/demo/demo/111
+#EXTINF:-1,tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
+http://shamsi.xyz:25461/demo/demo/112
+#EXTINF:-1,tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
+http://shamsi.xyz:25461/demo/demo/113
+#EXTINF:-1,tvg-name="MBC 5" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="MBC",MBC 5
+http://shamsi.xyz:25461/demo/demo/114
+#EXTINF:-1,tvg-name="MBC ACTION " tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC ACTION
+http://shamsi.xyz:25461/demo/demo/115
+#EXTINF:-1,tvg-name="MBC Max"tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1,tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood
+http://shamsi.xyz:25461/demo/demo/116
+#EXTINF:-1,tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama
+http://shamsi.xyz:25461/demo/demo/117
+#EXTINF:-1,tvg-name="MBC Drama +" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama +
+http://shamsi.xyz:25461/demo/demo/118
+#EXTINF:-1,tvg-name="MBC Iraq" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="MBC",MBC Iraq
+http://shamsi.xyz:25461/demo/demo/120
+#EXTINF:-1,tvg-name="MBC Masr 1 " tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1
+http://shamsi.xyz:25461/demo/demo/121
+#EXTINF:-1,tvg-name="MBC Masr 2 " tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2
+http://shamsi.xyz:25461/demo/demo/122
+#EXTINF:-1,tvg-name="MBC Wanasah" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MBC",Wanasah
+http://shamsi.xyz:25461/demo/demo/123
+#EXTINF:-1,tvg-name="MBC 1 HD"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1 HD
+http://shamsi.xyz:25461/demo/demo/126
+#EXTINF:-1,tvg-name="MBC 2 HD"tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2 HD
+http://shamsi.xyz:25461/demo/demo/127
+#EXTINF:-1,tvg-name="MBC 3 HD" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 HD
+http://shamsi.xyz:25461/demo/demo/128
+#EXTINF:-1,tvg-name="MBC 4 HD" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4 HD
+http://shamsi.xyz:25461/demo/demo/129
+#EXTINF:-1,tvg-name="MBC 5 HD" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="MBC",MBC 5 HD
+http://shamsi.xyz:25461/demo/demo/130
+#EXTINF:-1,tvg-name="MBC ACTION HD" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC ACTION HD
+http://shamsi.xyz:25461/demo/demo/131
+#EXTINF:-1,tvg-name="MBC Bollywood HD" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood HD
+http://shamsi.xyz:25461/demo/demo/132
+#EXTINF:-1,tvg-name="MBC Drama HD" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama HD
+http://shamsi.xyz:25461/demo/demo/133
+#EXTINF:-1,tvg-name="MBC Drama + HD" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama + HD
+http://shamsi.xyz:25461/demo/demo/134
+#EXTINF:-1,tvg-name="MBC Iraq HD" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="MBC",MBC Iraq HD
+http://shamsi.xyz:25461/demo/demo/136
+#EXTINF:-1,tvg-name="MBC Masr 1 HD" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1 HD
+http://shamsi.xyz:25461/demo/demo/137
+#EXTINF:-1,tvg-name="MBC Masr 2 HD" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2 HD
+http://shamsi.xyz:25461/demo/demo/138
+#EXTINF:-1,tvg-name="MBC Wanasah HD" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MBC",Wanasah HD
+http://shamsi.xyz:25461/demo/demo/139
+#EXTINF:-1,tvg-name="MBC 1 4K"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1 4K
+http://shamsi.xyz:25461/demo/demo/142
+#EXTINF:-1,tvg-name="MBC 2 4K"tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2 4K
+http://shamsi.xyz:25461/demo/demo/143
+#EXTINF:-1,tvg-name="MBC 3 4K" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 4K
+http://shamsi.xyz:25461/demo/demo/144
+#EXTINF:-1,tvg-name="MBC 3 4K" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3 4K
+http://shamsi.xyz:25461/demo/demo/145
+#EXTINF:-1,tvg-name="MBC 5 4K" tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="MBC",MBC 5 4K
+http://shamsi.xyz:25461/demo/demo/146
+#EXTINF:-1,tvg-name="MBC Iraq 4K" tvg-logo="https://i.imgur.com/huebvDt.png" group-title="MBC",MBC Iraq 4K
+http://shamsi.xyz:25461/demo/demo/152
+#EXTINF:-1,tvg-name="MBC Masr 1 4K" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="MBC",MBC Masr 1 4K
+http://shamsi.xyz:25461/demo/demo/153
+#EXTINF:-1,tvg-name="MBC Masr 2 4K" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="MBC",MBC Masr 2 4K
+http://shamsi.xyz:25461/demo/demo/154
+#EXTINF:-1,tvg-name="MBC Wanasah 4K" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="MBC",Wanasah 4K
+http://shamsi.xyz:25461/demo/demo/155
+#EXTINF:-1,SHAMSI TURK
+http://shamsi.xyz:25461/demo/demo/40
+#EXTINF:-1,TR Lise
+http://shamsi.xyz:25461/demo/demo/417
+#EXTINF:-1,TR Ortaokul
+http://shamsi.xyz:25461/demo/demo/418
+#EXTINF:-1,TR İlkokul
+http://shamsi.xyz:25461/demo/demo/419
+#EXTINF:-1,TR TRT 1
+http://shamsi.xyz:25461/demo/demo/420
+#EXTINF:-1,TR TRT 2
+http://shamsi.xyz:25461/demo/demo/421
+#EXTINF:-1,TR TRT arabi
+http://shamsi.xyz:25461/demo/demo/422
+#EXTINF:-1,TR TRT avaz
+http://shamsi.xyz:25461/demo/demo/423
+#EXTINF:-1,TR TRT cocuk
+http://shamsi.xyz:25461/demo/demo/424
+#EXTINF:-1,TR TRT haber
+http://shamsi.xyz:25461/demo/demo/425
+#EXTINF:-1,TR TRT kurdi
+http://shamsi.xyz:25461/demo/demo/426
+#EXTINF:-1,TR TRT muzik
+http://shamsi.xyz:25461/demo/demo/427
+#EXTINF:-1,TR TRT turk
+http://shamsi.xyz:25461/demo/demo/428
+#EXTINF:-1,TR TRT world
+http://shamsi.xyz:25461/demo/demo/429
+#EXTINF:-1,TR SHOW TV
+http://shamsi.xyz:25461/demo/demo/430
+#EXTINF:-1,TR KANAL D
+http://shamsi.xyz:25461/demo/demo/431
+#EXTINF:-1,TR FOX
+http://shamsi.xyz:25461/demo/demo/432
+#EXTINF:-1,TR KANAL 7 HD
+http://shamsi.xyz:25461/demo/demo/433
+#EXTINF:-1,TR ATV HD
+http://shamsi.xyz:25461/demo/demo/434
+#EXTINF:-1,TR STAR HD
+http://shamsi.xyz:25461/demo/demo/435
+#EXTINF:-1,TR avtv
+http://shamsi.xyz:25461/demo/demo/436
+#EXTINF:-1,TR 24tv
+http://shamsi.xyz:25461/demo/demo/437
+#EXTINF:-1,TR 38kenttv
+http://shamsi.xyz:25461/demo/demo/438
+#EXTINF:-1,TR 360tv
+http://shamsi.xyz:25461/demo/demo/439
+#EXTINF:-1,TR aksutv
+http://shamsi.xyz:25461/demo/demo/440
+#EXTINF:-1,TR alanyatv
+http://shamsi.xyz:25461/demo/demo/441
+#EXTINF:-1,TR altastv
+http://shamsi.xyz:25461/demo/demo/442
+#EXTINF:-1,TR anadolurtv
+http://shamsi.xyz:25461/demo/demo/443
+#EXTINF:-1,TR A SPOR
+http://shamsi.xyz:25461/demo/demo/444
+#EXTINF:-1,TR astv
+http://shamsi.xyz:25461/demo/demo/445
+#EXTINF:-1,TR benguturk
+http://shamsi.xyz:25461/demo/demo/446
+#EXTINF:-1,TR beyaztv
+http://shamsi.xyz:25461/demo/demo/447
+#EXTINF:-1,TR bloomberght
+http://shamsi.xyz:25461/demo/demo/448
+#EXTINF:-1,TR bltturk
+http://shamsi.xyz:25461/demo/demo/449
+#EXTINF:-1,TR brtv
+http://shamsi.xyz:25461/demo/demo/450
+#EXTINF:-1,TR caytv
+http://shamsi.xyz:25461/demo/demo/451
+#EXTINF:-1,TR dehatv
+http://shamsi.xyz:25461/demo/demo/452
+#EXTINF:-1,TR denizpostasitv
+http://shamsi.xyz:25461/demo/demo/453
+#EXTINF:-1,TR dimtv
+http://shamsi.xyz:25461/demo/demo/454
+#EXTINF:-1,TR egetv
+http://shamsi.xyz:25461/demo/demo/455
+#EXTINF:-1,TR ertv
+http://shamsi.xyz:25461/demo/demo/456
+#EXTINF:-1,TR eurostar
+http://shamsi.xyz:25461/demo/demo/457
+#EXTINF:-1,TR frttv
+http://shamsi.xyz:25461/demo/demo/458
+#EXTINF:-1,TR grt
+http://shamsi.xyz:25461/demo/demo/459
+#EXTINF:-1,TR gtv
+http://shamsi.xyz:25461/demo/demo/460
+#EXTINF:-1,TR haberglobal
+http://shamsi.xyz:25461/demo/demo/461
+#EXTINF:-1,TR haberturk
+http://shamsi.xyz:25461/demo/demo/462
+#EXTINF:-1,TR iceltv
+http://shamsi.xyz:25461/demo/demo/463
+#EXTINF:-1,TR ilketv
+http://shamsi.xyz:25461/demo/demo/464
+#EXTINF:-1,TR kanal3
+http://shamsi.xyz:25461/demo/demo/465
+#EXTINF:-1,TR kanal12
+http://shamsi.xyz:25461/demo/demo/466
+#EXTINF:-1,TR kanal15
+http://shamsi.xyz:25461/demo/demo/467
+#EXTINF:-1,TR kanal23
+http://shamsi.xyz:25461/demo/demo/468
+#EXTINF:-1,TR kanal26
+http://shamsi.xyz:25461/demo/demo/469
+#EXTINF:-1,TR kanal33
+http://shamsi.xyz:25461/demo/demo/470
+#EXTINF:-1,TR kanal68
+http://shamsi.xyz:25461/demo/demo/471
+#EXTINF:-1,TR kanala
+http://shamsi.xyz:25461/demo/demo/472
+#EXTINF:-1,TR kanald
+http://shamsi.xyz:25461/demo/demo/473
+#EXTINF:-1,TR kanalfirat
+http://shamsi.xyz:25461/demo/demo/474
+#EXTINF:-1,TR kanalurfa
+http://shamsi.xyz:25461/demo/demo/475
+#EXTINF:-1,TR kanalv
+http://shamsi.xyz:25461/demo/demo/476
+#EXTINF:-1,TR kanalz
+http://shamsi.xyz:25461/demo/demo/477
+#EXTINF:-1,TR kaytv
+http://shamsi.xyz:25461/demo/demo/478
+#EXTINF:-1,TR koroglutv
+http://shamsi.xyz:25461/demo/demo/479
+#EXTINF:-1,TR kralpop
+http://shamsi.xyz:25461/demo/demo/480
+#EXTINF:-1,TR kraltv
+http://shamsi.xyz:25461/demo/demo/481
+#EXTINF:-1,TR lifetv
+http://shamsi.xyz:25461/demo/demo/482
+#EXTINF:-1,TR linetv
+http://shamsi.xyz:25461/demo/demo/483
+#EXTINF:-1,TR manisaetv
+http://shamsi.xyz:25461/demo/demo/484
+#EXTINF:-1,TR mavikaradeniz
+http://shamsi.xyz:25461/demo/demo/485
+#EXTINF:-1,TR mercantv
+http://shamsi.xyz:25461/demo/demo/486
+#EXTINF:-1,TR merkeztv
+http://shamsi.xyz:25461/demo/demo/487
+#EXTINF:-1,TR mesajtv
+http://shamsi.xyz:25461/demo/demo/488
+#EXTINF:-1,TR muglaturk
+http://shamsi.xyz:25461/demo/demo/489
+#EXTINF:-1,TR ntv
+http://shamsi.xyz:25461/demo/demo/490
+#EXTINF:-1,TR olayturk
+http://shamsi.xyz:25461/demo/demo/491
+#EXTINF:-1,TR olaytv
+http://shamsi.xyz:25461/demo/demo/492
+#EXTINF:-1,TR oncurtv
+http://shamsi.xyz:25461/demo/demo/493
+#EXTINF:-1,TR orttv
+http://shamsi.xyz:25461/demo/demo/494
+#EXTINF:-1,TR sat7turk
+http://shamsi.xyz:25461/demo/demo/495
+#EXTINF:-1,TR tempotv
+http://shamsi.xyz:25461/demo/demo/496
+#EXTINF:-1,TR tgrtbelgesel
+http://shamsi.xyz:25461/demo/demo/497
+#EXTINF:-1,TR tgrteu
+http://shamsi.xyz:25461/demo/demo/498
+#EXTINF:-1,TR tgrthaber
+http://shamsi.xyz:25461/demo/demo/499
+#EXTINF:-1,TR tlc
+http://shamsi.xyz:25461/demo/demo/500
+#EXTINF:-1,TR tontv
+http://shamsi.xyz:25461/demo/demo/501
+#EXTINF:-1,TR tuncerciftci
+http://shamsi.xyz:25461/demo/demo/502
+#EXTINF:-1,TR tv1
+http://shamsi.xyz:25461/demo/demo/503
+#EXTINF:-1,TR tv8
+http://shamsi.xyz:25461/demo/demo/504
+#EXTINF:-1,TR tv41
+http://shamsi.xyz:25461/demo/demo/505
+#EXTINF:-1,TR tva
+http://shamsi.xyz:25461/demo/demo/506
+#EXTINF:-1,TR tvnet
+http://shamsi.xyz:25461/demo/demo/507
+#EXTINF:-1,TR vizyon58
+http://shamsi.xyz:25461/demo/demo/508
+#EXTINF:-1,TR vuslattv
+http://shamsi.xyz:25461/demo/demo/509
+#EXTINF:-1,TR yesilyurttv
+http://shamsi.xyz:25461/demo/demo/510
+#EXTINF:-1,BEIN 1  HD
+http://shamsi.xyz:25461/demo/demo/604
+#EXTINF:-1,BEIN 2  HD
+http://shamsi.xyz:25461/demo/demo/605
+#EXTINF:-1,BEIN 3  HD
+http://shamsi.xyz:25461/demo/demo/606
+#EXTINF:-1,BEIN 4  HD
+http://shamsi.xyz:25461/demo/demo/607
+#EXTINF:-1,BEIN 5  HD
+http://shamsi.xyz:25461/demo/demo/608
+#EXTINF:-1,BEIN 6  HD
+http://shamsi.xyz:25461/demo/demo/609
+#EXTINF:-1,BEIN 7  HD
+http://shamsi.xyz:25461/demo/demo/610
+#EXTINF:-1,BEIN 8  HD
+http://shamsi.xyz:25461/demo/demo/611
+#EXTINF:-1,BEIN 9  HD
+http://shamsi.xyz:25461/demo/demo/612
+#EXTINF:-1,BEIN 10  HD
+http://shamsi.xyz:25461/demo/demo/613
+#EXTINF:-1,BEIN 11  HD
+http://shamsi.xyz:25461/demo/demo/614
+#EXTINF:-1,BEIN 12  HD
+http://shamsi.xyz:25461/demo/demo/615
+#EXTINF:-1,Bein Movies 1
+http://shamsi.xyz:25461/demo/demo/633
+#EXTINF:-1,Bein Movies 2
+http://shamsi.xyz:25461/demo/demo/634
+#EXTINF:-1,Bein Movies 3
+http://shamsi.xyz:25461/demo/demo/635
+#EXTINF:-1,Bein Movies 4
+http://shamsi.xyz:25461/demo/demo/636
+#EXTINF:-1,BEIN DRAMA
+http://shamsi.xyz:25461/demo/demo/637
+#EXTINF:-1,BEIN SERIES 1
+http://shamsi.xyz:25461/demo/demo/638
+#EXTINF:-1,BEIN GOURMET
+http://shamsi.xyz:25461/demo/demo/639
+#EXTINF:-1,HAWACOM HD
+http://shamsi.xyz:25461/demo/demo/640
+#EXTINF:-1,AGHANI TV
+http://shamsi.xyz:25461/demo/demo/641
+#EXTINF:-1,ARABICA TV
+http://shamsi.xyz:25461/demo/demo/642
+#EXTINF:-1,Fox Action Movies
+http://shamsi.xyz:25461/demo/demo/646
+#EXTINF:-1,BEIN SERIES 2
+http://shamsi.xyz:25461/demo/demo/647
+#EXTINF:-1,HINDI ZEE ALWAN
+http://shamsi.xyz:25461/demo/demo/648
+#EXTINF:-1,HINDI ZEE AFLAM
+http://shamsi.xyz:25461/demo/demo/649
+#EXTINF:-1,HINDI B4U AFLAM
+http://shamsi.xyz:25461/demo/demo/650
