@@ -49,7 +49,7 @@ http://shamsi.xyz:25461/demo/demo/70
 http://shamsi.xyz:25461/demo/demo/71
 #EXTINF:-1,tvg-name="Al Sharqiya "tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/97/Alsharqiyahd_logo.png" group-title="News",Al Sharqiya
 http://shamsi.xyz:25461/demo/demo/400
-#EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/310YEHDYguL.png" group-title="Nwes",Al Jazeera
+#EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/310YEHDYguL.png" group-title="News",Al Jazeera
 http://shamsi.xyz:25461/demo/demo/322
 #EXTINF:-1,tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.ytimg.com/vi/9PWYaRaGy0c/maxresdefault.jpg" group-title="News",Al Jazeera Mubasher
 http://shamsi.xyz:25461/demo/demo/324
