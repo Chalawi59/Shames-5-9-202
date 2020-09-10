@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,tvg-name="SHAMSI FEROUZ"tvg-logo="https://tunisnow.tn/wp-content/uploads/2020/05/%D9%81%D9%8A%D8%B1%D9%88%D8%B2.png"group-title="Music",SHAMSI FEROUZ
 http://shamsi.xyz:25461/demo/demo/42
-#EXTINF:-1,tvg-name="SHAMSI MOVIES"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI MOVIES
+#EXTINF:-1,tvg-name="SHAMSI MOVIES"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Movies",SHAMSI MOVIES
 http://shamsi.xyz:25461/demo/demo/2
-#EXTINF:-1,tvg-name="AFLAM EGYPT"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Move",SHAMSI AFLAM
+#EXTINF:-1,tvg-name="AFLAM EGYPT"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="Movies",SHAMSI AFLAM
 http://shamsi.xyz:25461/demo/demo/5
-#EXTINF:-1,tvg-name="ALARABYA SECRET"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="ُNEWS",SHAMSI SECRET
+#EXTINF:-1,tvg-name="ALARABYA SECRET"tvg-logo="https://sayead.files.wordpress.com/2013/11/shamiptv.jpg"group-title="ُNews",SHAMSI SECRET
 http://shamsi.xyz:25461/demo/demo/631
 #EXTINF:-1,tvg-name="Rotana Cinema " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Cinema_EG_New.png/271px-Rotana_Cinema_EG_New.png" group-title="ROTANA",Rotana Cinema                
 http://shamsi.xyz:25461/demo/demo/209
@@ -51,9 +51,9 @@ http://shamsi.xyz:25461/demo/demo/71
 http://shamsi.xyz:25461/demo/demo/400
 #EXTINF:-1,tvg-name="Al Jazeera" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/310YEHDYguL.png" group-title="Nwes",Al Jazeera
 http://shamsi.xyz:25461/demo/demo/322
-#EXTINF:-1,tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.ytimg.com/vi/9PWYaRaGy0c/maxresdefault.jpg" group-title="Nwes",Al Jazeera Mubasher
+#EXTINF:-1,tvg-name="Al Jazeera Mubasher" tvg-logo="https://i.ytimg.com/vi/9PWYaRaGy0c/maxresdefault.jpg" group-title="News",Al Jazeera Mubasher
 http://shamsi.xyz:25461/demo/demo/324
-#EXTINF:-1,tvg-name="ALRASHID"tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png"group-title="Nwes",Al Rasheed
+#EXTINF:-1,tvg-name="ALRASHID"tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png"group-title="News",Al Rasheed
 http://shamsi.xyz:25461/demo/demo/393
 #EXTINF:-1,tvg-name="Dijlah"tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="News",Dijlah
 http://shamsi.xyz:25461/demo/demo/396
@@ -61,13 +61,13 @@ http://shamsi.xyz:25461/demo/demo/396
 http://shamsi.xyz:25461/demo/demo/397
 #EXTINF:-1,tvg-name="Al Iraqiya TV "tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya
 http://shamsi.xyz:25461/demo/demo/398
-#EXTINF:-1وtvg-name="Alsumaria"tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="Nwes",Al Sumaria
+#EXTINF:-1وtvg-name="Alsumaria"tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="News",Al Sumaria
 http://shamsi.xyz:25461/demo/demo/401
-#EXTINF:-1,tvg-name="Al Taghayer" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" group-title="Nwes",Al Taghayer
+#EXTINF:-1,tvg-name="Al Taghayer" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" group-title="News",Al Taghayer
 http://shamsi.xyz:25461/demo/demo/402
-#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One
+#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One
 http://shamsi.xyz:25461/demo/demo/90
-#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="",Dubai One HD
+#EXTINF:-1,tvg-name="Dubai One"tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies",Dubai One HD
 http://shamsi.xyz:25461/demo/demo/95
 #EXTINF:-1,tvg-name="MBC 1"tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
 http://shamsi.xyz:25461/demo/demo/110
